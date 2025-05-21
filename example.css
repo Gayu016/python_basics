@@ -1,0 +1,214 @@
+.header{
+    color: white;
+    background-color: black;
+    padding: 65px;
+    text-align:center ;
+    margin: 30px;
+    border-style: none;
+    border-color: blue;
+    box-shadow: 2px 2px 10px ;
+
+}
+#head{
+    padding-bottom: 40px;
+    font-family: monospace;
+    font-size: 50px;
+}
+.intro{
+    color: black;
+    background-color: white;
+    padding: 30px;
+    margin: 30px;
+            border-style: none;
+            border-radius: 15px;
+            border-color: blue;
+            box-shadow: 2px 2px 10px ;
+            font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            
+
+}
+.history{
+    color: black;
+    background-color: white;
+    padding: 30px;
+    margin: 30px;
+    border-style: none;
+    border-radius: 15px;
+    border-color: blue;
+    box-shadow: 2px 2px 10px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            
+
+
+        }
+        .app{
+            color: black;
+            background-color: white;
+            padding: 30px;
+            margin: 30px;
+            border-style: none;
+            border-radius: 15px;
+            border-color: blue;
+            box-shadow: 2px 2px 10px;
+            font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            
+        }
+        .features{
+            color: black;
+            background-color: white;
+            padding: 30px;
+            margin: 30px;
+            border-style: none;
+            border-radius: 15px;
+            border-color: blue;
+            box-shadow: 2px 2px 10px ;
+            font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            
+        }
+        .ds{
+            color: black;
+            background-color: white;
+            padding: 30px;
+            margin: 30px;
+            border-style: none;
+            border-radius: 15px;
+            border-color: blue;
+            box-shadow: 2px 2px 10px ;
+            font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            
+
+
+        }
+        .form{
+            color: black;
+            background-color: white;
+            padding: 30px;
+            margin: 30px;
+            border-style: none;
+            border-radius: 15px;
+            border-color: blue;
+            box-shadow: 2px 2px 10px ;
+            
+
+        }
+        .install{
+            color: black;
+            background-color: white;
+            padding: 30px;
+            margin: 30px;
+            border-style: none;
+            border-radius: 15px;
+            border-color: blue;
+            box-shadow: 2px 2px 10px ;
+            
+
+        }
+        nav{
+            margin: 10px 0;
+            text-align: center;
+        } 
+        nav a{
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+            
+            
+        }
+        nav button{
+            cursor: pointer;
+            padding: 10px;
+            font-size: medium;
+            background-color: black;
+            color: white;
+            border-radius: 10px;
+        }
+        nav button:hover{
+            background-color: gray;
+        }
+        #i1{
+            padding: 6px;
+            width: 220px;
+            margin: 10px;
+            background-color: silver;
+        }
+        #i2{
+            padding: 6px;
+            width: 220px;
+            margin: 10px;
+            background-color:silver ;
+        }
+        
+        #i4{
+            padding: 6px;
+            width: 220px;
+            margin: 10px;
+            background-color: silver;
+        }
+        #i5{
+            padding: 6px;
+            width: 220px;
+            margin: 10px;
+            background-color: silver;
+        }
+        #i6{
+            padding: 6px;
+            width: 220px;
+            margin: 10px;
+            background-color: black;
+            color: white;
+            cursor: pointer;
+        }
+        #i7{
+            padding: 6px;
+            width: 220px;
+            margin: 10px;
+            background-color: black;
+            color: white;
+            cursor: pointer;
+        }
+        form table td{
+            font-size: 19px;
+            font-family: sans-serif;
+        }
+        #p7 h2{
+            font-size: 30px;
+            font-family:Arial, Helvetica, sans-serif;
+        }
+        #img1{
+            border-style: solid;
+            border-color: black;
+        }
+        .intro h2{
+            font-family: cursive;
+        }
+        .history h2{
+           font-family: cursive;
+        }
+        .app h2{
+
+            font-family: cursive;
+        }
+        .features h2{
+            font-family: cursive;
+        }
+        .install h2{
+            font-family:  cursive;
+        }
+        .ds h2{
+            font-family: cursive;
+        }
+        .install img{
+            border-style: double;
+            border-color: black;
+        }
+        #i6:hover{
+            background-color: silver;
+        }
+        #i7:hover{
+            background-color: silver;
+        }
+        
+        
+
+
+
